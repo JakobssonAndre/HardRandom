@@ -4,7 +4,7 @@ using Net.Pkcs11Interop.HighLevelAPI.Factories;
 using HardRandom.Properties;
 using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
 
 namespace HardRandom
 {
@@ -37,8 +37,9 @@ namespace HardRandom
                 // Open a read only session (no PIN) and generate random sequence
                 using (ISession session = slot.OpenSession(SessionType.ReadOnly))
                 {
-                    byte[] iv = session.GenerateRandom(RandomLength);
-                    Console.WriteLine("{1} ({0})", iv.Length, Encoding.Default.GetString(iv));
+                    byte[] randomData = session.GenerateRandom(RandomLength);
+                    string randomHex = string.Join(" ", randomData.Select(x => x.ToString("X2")));
+                    Console.WriteLine("{0} ({1})", randomHex, randomData.Length);
                 }
             }
         }
