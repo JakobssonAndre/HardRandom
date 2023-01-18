@@ -1,0 +1,11 @@
+C:\Users\blackdragon.FUYUGAMES\source\repos\SCRandom\SCRandom\bin\Debug\SCRandom.exe.config
+C:\Users\blackdragon.FUYUGAMES\source\repos\SCRandom\SCRandom\bin\Debug\SCRandom.exe
+C:\Users\blackdragon.FUYUGAMES\source\repos\SCRandom\SCRandom\bin\Debug\SCRandom.pdb
+C:\Users\blackdragon.FUYUGAMES\source\repos\SCRandom\SCRandom\obj\Debug\SCRandom.csproj.AssemblyReference.cache
+C:\Users\blackdragon.FUYUGAMES\source\repos\SCRandom\SCRandom\obj\Debug\SCRandom.csproj.SuggestedBindingRedirects.cache
+C:\Users\blackdragon.FUYUGAMES\source\repos\SCRandom\SCRandom\obj\Debug\SCRandom.csproj.CoreCompileInputs.cache
+C:\Users\blackdragon.FUYUGAMES\source\repos\SCRandom\SCRandom\obj\Debug\SCRandom.exe
+C:\Users\blackdragon.FUYUGAMES\source\repos\SCRandom\SCRandom\obj\Debug\SCRandom.pdb
+C:\Users\blackdragon.FUYUGAMES\source\repos\SCRandom\SCRandom\bin\Debug\Pkcs11Interop.dll
+C:\Users\blackdragon.FUYUGAMES\source\repos\SCRandom\SCRandom\bin\Debug\Pkcs11Interop.xml
+C:\Users\blackdragon.FUYUGAMES\source\repos\SCRandom\SCRandom\obj\Debug\SCRandom.csproj.CopyComplete
